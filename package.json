@@ -1,15 +1,16 @@
 {
-  "homepage": "https://maxxnikiforov.github.io/template_react_ts/",
-  "name": "template_react_ts",
+  "homepage": "https://maxxnikiforov.github.io/converter_react_redux/",
+  "name": "converter_react_redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@reduxjs/toolkit": "^1.9.1",
+    "@reduxjs/toolkit": "^1.9.2",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "@types/jest": "^27.5.2",
     "@types/node": "^16.18.11",
+    "@types/react-redux": "^7.1.25",
     "axios": "^1.2.2",
     "classnames": "^2.3.2",
     "gh-pages": "^4.0.0",
@@ -55,7 +56,7 @@
     "@types/react": "^18.0.26",
     "@types/react-dom": "^18.0.10",
     "eslint": "^7.25.0",
-    "gh-pages": "^3.1.0",
-    "node-sass": "^5.0.0"
+    "gh-pages": "4.0.0",
+    "node-sass": "^8.0.0"
   }
 }
